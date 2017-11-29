@@ -12,5 +12,5 @@
 - Các ghi chú khác: 
 	+ File dữ liệu được nghi ở dạng nhị phân => không thể chỉnh sửa dữ liệu trực tiếp trong file dữ liệu được.
 	+ File dữ liệu mặc định luôn có tên là data.txt.
-- Link Bitbuket: 
-- Link Youtube: 
+- Link Bitbuket: https://bitbucket.org/thaibalong7/windev/src/1eb8c7311678f6150f31c50a407dac9b9800bac8/1512296.QLChiTieu/?at=master
+- Link Youtube: https://youtu.be/7iPeq9i0KJs
