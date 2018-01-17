@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  hookDLL.cpp
+  dllmain.cpp
+  Generating Code...
+     Creating library D:\CNTT_15CTT2\LT_Window_k15\Deadline\QuickNote\x64\Debug\hookDLL.lib and object D:\CNTT_15CTT2\LT_Window_k15\Deadline\QuickNote\x64\Debug\hookDLL.exp
+  hookDLL.vcxproj -> D:\CNTT_15CTT2\LT_Window_k15\Deadline\QuickNote\x64\Debug\hookDLL.dll
